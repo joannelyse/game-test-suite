@@ -1,4 +1,4 @@
-# NetBreak — Game System Test Suite
+# Game System Test Suite [NetBreak]
 
 > A comprehensive test suite for a cyberpunk-themed tactical game called **NetBreak**. Built to practice and demonstrate software testing methodology, test design patterns, and QA skills applied to game system logic.
 
@@ -24,7 +24,7 @@ game-test-suite/
 
 ### Agent
 
-The core character class. Each agent has a **role** that applies stat modifiers on creation.
+The core character class. Each agent has a role that applies stat modifiers on creation.
 
 **Roles and bonuses:**
 
@@ -191,7 +191,3 @@ pytest tests/ -v
 
 - Python
 - pytest
-
-## Author
-
-**Joanna McCormack** — [GitHub](https://github.com/joannelyse)
